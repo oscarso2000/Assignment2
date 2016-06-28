@@ -6,4 +6,8 @@ To gain a solid understanding of Operators, System Input/Output, Conditional Sta
 
 ### Part 1
 
+1. 
+
 ### Part 2
+
+1. 
