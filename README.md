@@ -32,7 +32,8 @@ x >= 10 && x < 25 && x != 12
 ```
 0 < x < 15
 ```
-5.  Which of the following are valid?  What is wrong with any that are invalid?
+
+5. Which of the following are valid?  What is wrong with any that are invalid?
     1.  if (a > b) then c = 0;
     2.  if a > b { c = 0; }
     3.  if (a > b) c = 0;
@@ -42,4 +43,3 @@ x >= 10 && x < 25 && x != 12
 Please include your name and a description in a comment at the top of your code files. Please also include your name at the top of your assignment1.txt file.
 
 All files must be submitted via GitHub by 10:00am 6/30.
-
