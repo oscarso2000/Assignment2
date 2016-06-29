@@ -13,7 +13,7 @@ To gain a solid understanding of Operators, System Input/Output, Conditional Sta
 3. Write a random number guesser `randnum.c` that generates a random integer between 1 and 10 (inclusive), prompts the user for a guess, and tells the user if they guessed correctly, too high, or too low.  You may assume the user enters a valid integer.  The code below will generate a random integer.  Note: You will need to include the stdlib.h and time.h header files.
 ```c
 srand(time(0));
-`int r = rand();
+int r = rand();
 ```
 
 ### Part 2
